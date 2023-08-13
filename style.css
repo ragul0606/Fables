@@ -5,3 +5,36 @@
 a {
   text-decoration: none !important;
 }
+
+.special-arrow {
+  padding: 1rem;
+  border-radius: 60%;
+  border: 2px solid white;
+  margin-top: -2.15rem;
+}
+
+.card {
+  /* border: none !important; */
+}
+
+li {
+  list-style: none !important;
+}
+
+.p-0 {
+  margin-bottom: 0.35rem !important;
+}
+
+.btn {
+  border-radius: 1.5rem !important;
+  margin: 1rem 0 !important;
+}
+
+.margin-bottom-minus {
+  margin-bottom: -2rem !important;
+}
+
+.card-hover:hover {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.623) !important;
+  border-bottom: 2px solid red !important;
+}
